@@ -42,7 +42,8 @@ Smokers have much higher medical expenses compared to non-smokers, making smokin
 ## Model Performance: Actual vs. Predicted Insurance Charges
 The scatter plot below exhibits strong agreement between actual and anticipated values, demonstrating the model's powerful predictive capacity.[Actual versus Predicted](actual_vs_predicted.png).
 
-## Key Evaluation Metrics- R² Score: 0.85.  
+## Key Evaluation Metrics-
+- **R² Score:** 0.85   
 - **MAE:** Lower average absolute error  
 - **RMSE:** Controlled deviation, even among high-cost individuals  
 ---
