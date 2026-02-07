@@ -41,7 +41,7 @@ Smokers routinely have much higher medical bills than non-smokers.[Smoking and E
 ---
 
 ## Model Performance: Actual vs. Predicted Insurance Charges
-The scatter plot below demonstrates strong alignment between real and anticipated values, demonstrating robust model performance.[Actual versus Predicted] (actual_vs_predicted.png).
+The scatter plot below demonstrates strong alignment between real and anticipated values, demonstrating robust model performance.[Actual versus Predicted](actual_vs_predicted.png).
 
 ### Key Metrics:- R² Score: 0.85.  
 - **MAE:** Lower average absolute error  
