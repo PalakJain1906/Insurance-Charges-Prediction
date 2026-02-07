@@ -22,7 +22,8 @@ The solution is intended to be:-
 - Language: Python.  -
 -  **Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 -    - **Model:** Random Forest Regressor
-(#)## Techniques Used- Exploratory data analysis (EDA).  
+       
+### Techniques Used- Exploratory data analysis (EDA).  
 - Feature encoding  
 - Supervised Machine Learning.  
 - Model Evaluation.  
